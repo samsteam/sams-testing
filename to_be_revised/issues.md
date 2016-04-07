@@ -1,5 +1,6 @@
 ### Issue 1
 Al agregar un requerimiento no se actualiza bien para agregar una nueva secuencia.png
+Verificar con **Issue 13**
 
 ![](./Al agregar un requerimiento no se actualiza bien para agregar una nueva secuencia.png)
 
@@ -60,6 +61,7 @@ que reemplaze todo el contenido del input al presionar un n__mero.png
 
 ### Issue 13
 y si figurar todo de una_.png
+Verificar con **Issue 1**
 
 ![](./y si figurar todo de una_.png)
 

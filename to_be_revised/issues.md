@@ -1,5 +1,6 @@
 ### Issue 1
-Al agregar un requerimiento no se actualiza bien para agregar una nueva secuencia.png
+Al agregar un requerimiento no se actualiza bien para agregar una nueva secuencia.png.
+
 Verificar con **Issue 13**
 
 ![](./Al agregar un requerimiento no se actualiza bien para agregar una nueva secuencia.png)
@@ -45,9 +46,8 @@ fondo ajustado en lo posible.png
 ![](./fondo ajustado en lo posible.png)
 
 ### Issue 10
-issues.md
 
-![](./issues.md)
+[issues.md](./issues.md)
 
 ### Issue 11
 no permitir ingresar letras.png
@@ -60,7 +60,8 @@ que reemplaze todo el contenido del input al presionar un n__mero.png
 ![](./que reemplaze todo el contenido del input al presionar un n__mero.png)
 
 ### Issue 13
-y si figurar todo de una_.png
+y si figurar todo de una_.png.
+
 Verificar con **Issue 1**
 
 ![](./y si figurar todo de una_.png)
